@@ -1,2 +1,2 @@
 # ZoeTechInterview
-Tech interview dull resolution
+Tech interview full resolution
