@@ -1,0 +1,35 @@
+# Ignorar la carpeta node_modules
+node_modules/
+
+# Ignorar archivos generados por el entorno de desarrollo
+.DS_Store
+*.log
+npm-debug.log*
+
+# Ignorar directorios de construcción o salida
+build/
+dist/
+out/
+coverage/
+
+# Ignorar archivos de configuración local
+.env
+.env.local
+.env.*.local
+
+# Ignorar dependencias específicas del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de configuración de editor
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Ignorar archivos generados por herramientas de pruebas
+coverage/
+*.seed
+*.pid
+*.log
+*.vscode-test
